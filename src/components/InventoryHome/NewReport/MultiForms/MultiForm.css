@@ -1,0 +1,29 @@
+.NR_Button{
+    color: white;
+    width: 100%;
+    margin: 10px 0px;
+    padding: 10px;
+    background: #4E444C;
+    border-radius: 8px;
+}
+.NR_Button:hover{
+    background: #4E444C;
+}
+
+.NR_InnerButton{
+    color: white;
+    width: 100%;
+    margin: 10px 0px;
+    padding: 10px;
+    background: rgba(212, 21, 83, 1);
+    border-radius: 8px;
+}
+.NR_InnerButton:hover{
+    background: rgba(212, 21, 83, 1);
+}
+
+.NR_P{
+    color: #F9F3FA;
+    letter-spacing: 0.02em;
+    font-size: 0.9rem;
+}
